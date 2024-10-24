@@ -3,7 +3,7 @@
 	url = https://github.com/vuepress-theme-hope/pdfjs.git
 [submodule "components-docs-pdfjs-lib"]
 	path = docs/components/src/.vuepress/public/assets/lib/pdfjs
-	https://github.com/vuepress-theme-hope/pdfjs.git
+	url = https://github.com/vuepress-theme-hope/pdfjs.git
 [submodule "theme-docs-pdfjs-lib"]
 	path = docs/theme/src/.vuepress/public/assets/lib/pdfjs
 	url = https://github.com/vuepress-theme-hope/pdfjs.git
